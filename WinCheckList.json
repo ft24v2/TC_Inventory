@@ -1,0 +1,25 @@
+{
+  "Checklist": {
+    "Updates Installed": {
+      "Checked" : false
+      },
+      "Ram Installed": {
+      "Checked" : false
+      },
+      "HDD Installed": {
+      "Checked" : false
+      },
+      "AC Adapter": {
+      "Checked" : false
+      },
+      "Software Installed": {
+      "Checked" : false
+      },
+      "Performance Test Ran": {
+      "Checked" : false
+      },
+      "RAM Tested": {
+      "Checked" : false
+    }
+  }
+}
