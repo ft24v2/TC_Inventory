@@ -1,0 +1,11 @@
+Ram
+HDD/SSD
+Bezel
+AC Adapter
+LCD
+DVD Drive
+Laptop Keyboard
+USB Keyboard
+USB Mouse
+Monitor
+Other
